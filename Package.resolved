@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "foundationex",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Zean-Technology-Co-Ltd/FoundationEx.git",
+      "state" : {
+        "revision" : "5f10181a0732dbd74ce033357102f9fc547cdb8b",
+        "version" : "1.0.5"
+      }
+    }
+  ],
+  "version" : 2
+}
